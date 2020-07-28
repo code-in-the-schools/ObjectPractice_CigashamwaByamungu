@@ -29,5 +29,5 @@ class Book:
     b.Fic = str(input( "True or False ?"))
 
 for r in range(3):
-  print range....
+  print range.....
 
